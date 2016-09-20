@@ -39,4 +39,3 @@ node {
       docker: "luddythrowaway/vny:${gitCommit()}".toString()
   )
 }
-}
